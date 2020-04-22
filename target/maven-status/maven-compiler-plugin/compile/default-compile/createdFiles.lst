@@ -1,0 +1,4 @@
+com\wyf\mapper\MyMapper.class
+com\wyf\service\impl\MyserviceImpl.class
+com\wyf\service\Myservice.class
+com\wyf\controller\MyController.class
